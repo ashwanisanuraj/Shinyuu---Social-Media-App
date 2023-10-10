@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/FeedFragment">
+    <fragment
+        android:id="@+id/FeedFragment"
+        android:name="com.xero.shinyuu.fragments.FeedFragment"
+        android:label="fragment_feed"
+        tools:layout="@layout/fragment_feed" />
+    <fragment
+        android:id="@+id/SainyuuFragment"
+        android:name="com.xero.shinyuu.fragments.SainyuuFragment"
+        android:label="fragment_sainyuu"
+        tools:layout="@layout/fragment_sainyuu" />
+    <fragment
+        android:id="@+id/ProfileFragment"
+        android:name="com.xero.shinyuu.fragments.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+</navigation>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96524014752",
+    "project_id": "shinyuu-ba3a6",
+    "storage_bucket": "shinyuu-ba3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96524014752:android:3285668a0719a83fa465c5",
+        "android_client_info": {
+          "package_name": "com.xero.shinyuu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdY9F8xZu3LYfeyfURQxWjNNkI5PWr_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
