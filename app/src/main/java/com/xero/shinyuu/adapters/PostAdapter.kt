@@ -49,7 +49,6 @@ class PostAdapter(private val context: Context, private val postList: ArrayList<
                     }
 
                     holder.binding.textFieldUsername.text = user?.name
-                    holder.binding.email.text = user?.email
                     val text = TimeAgo.using(postList.get(position).time.toLong())
                     holder.binding.time.text = text
 

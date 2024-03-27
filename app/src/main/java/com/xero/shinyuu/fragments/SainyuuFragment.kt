@@ -11,10 +11,8 @@ import com.google.firebase.firestore.ktx.firestore
 import com.google.firebase.firestore.ktx.toObject
 import com.google.firebase.ktx.Firebase
 import com.xero.shinyuu.Models.User // Import the correct User class
-import com.xero.shinyuu.adapters.ConnectAdapter
 import com.xero.shinyuu.adapters.SearchAdapter
 import com.xero.shinyuu.databinding.FragmentSainyuuBinding
-import com.xero.shinyuu.utils.CONNECT
 import com.xero.shinyuu.utils.USER_NODE
 
 class SainyuuFragment : Fragment() {
@@ -22,7 +20,6 @@ class SainyuuFragment : Fragment() {
     private lateinit var adapter: SearchAdapter
     private var userList = ArrayList<User>()
     private var connectList = ArrayList<User>()
-    private lateinit var connectAdapter: ConnectAdapter
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,

@@ -45,11 +45,6 @@ class ProfileFragment : Fragment() {
             activity?.startActivity(intent)
             activity?.finish()
         }
-        viewPagerAdapter=ViewPagerAdapter(requireActivity().supportFragmentManager)
-        viewPagerAdapter.addFragments(MyPostFragment(), "My Posts")
-        viewPagerAdapter.addFragments(NotesFragment(), "My Note")
-        binding.viewPager.adapter=viewPagerAdapter
-        binding.tabLayout.setupWithViewPager(binding.viewPager)
 
         return binding.root
     }

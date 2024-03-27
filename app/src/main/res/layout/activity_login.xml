@@ -10,7 +10,7 @@
         android:id="@+id/signup"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="156dp"
+        android:layout_marginTop="12dp"
         android:text="New here? Register"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -70,7 +70,7 @@
     <Button
         android:id="@+id/loginBtn"
         style="@style/Widget.Material3.Button.Icon"
-        android:layout_width="118dp"
+        android:layout_width="wrap_content"
         android:layout_height="62dp"
         android:layout_marginTop="48dp"
         android:backgroundTint="@color/blue"

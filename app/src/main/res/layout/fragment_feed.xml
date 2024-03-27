@@ -5,15 +5,16 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".fragments.FeedFragment"
-
-
     >
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/post_rv"
         android:layout_width="match_parent"
         android:layout_height="0dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
@@ -21,48 +22,5 @@
         app:layout_constraintTop_toTopOf="parent">
 
     </androidx.recyclerview.widget.RecyclerView>
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/connectRv"
-        android:layout_width="292dp"
-        android:layout_height="88dp"
-        android:layout_marginStart="30dp"
-        android:layout_marginTop="5dp"
-        android:layout_marginEnd="8dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView"
-        android:layout_width="69dp"
-        android:layout_height="61dp"
-        android:layout_marginStart="10dp"
-        android:layout_marginTop="4dp"
-        android:src="@drawable/profile_icon"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <View
-        android:id="@+id/divider2"
-        android:layout_width="1dp"
-        android:layout_height="80dp"
-        android:layout_marginStart="10dp"
-        android:background="?android:attr/listDivider"
-        app:layout_constraintBottom_toBottomOf="@+id/post_rv"
-        app:layout_constraintEnd_toStartOf="@+id/connectRv"
-        app:layout_constraintStart_toEndOf="@+id/imageView"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.014" />
-
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="1dp"
-        android:text="Connect List"
-        app:layout_constraintEnd_toEndOf="@+id/imageView"
-        app:layout_constraintStart_toStartOf="@+id/imageView"
-        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
