@@ -49,8 +49,8 @@ Some screenshots of the Application:
 <table>
   <tr>
     <td>Add post</td>
-    <td>Selected Image and Bio for new post</td>
-    <td>See the uploaded Image and Bio in Feed</td>
+    <td>Selected Image and Caption for new post</td>
+    <td>See the uploaded Image and Caption in Feed</td>
     <td>Profile Page</td>
   </tr>
   <tr>
