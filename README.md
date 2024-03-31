@@ -5,7 +5,7 @@ Shinyuu is a social media app designed to connect users with their closest frien
 This app allows user to post their photos online with their friends.
 ## Features
 
-- Personalize your profile with a profile picture, cover photo, and bio to showcase your personality.
+- Personalize your profile with a name, profile picture.
 - Enjoy a personalized feed of updates, photos shared by your inner circle.
 - Connect with your closest friends and family members
 - Easily find and connect with new friends
