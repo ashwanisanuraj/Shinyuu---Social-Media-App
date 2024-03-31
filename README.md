@@ -34,6 +34,5 @@ This app allows user to post their photos online with their friends.
 
 <p align="center">
   <img src="https://github.com/ashwanisanuraj/Images/blob/main/photo_6075671517745757469_y.jpg" width="400" alt="Image 1">
-  margin: 20px;
   <img src="https://github.com/ashwanisanuraj/Images/blob/main/edit%20profile.png" width="400" alt="Image 2">
 </p>
