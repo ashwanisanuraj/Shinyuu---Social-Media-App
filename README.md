@@ -51,7 +51,7 @@ Some screenshots of the Application:
     <td>Add post</td>
     <td>Selected Image and Caption for new post</td>
     <td>See the uploaded Image and Caption in Feed</td>
-    <td>Profile Page</td>
+    <td>Logout Confirmation</td>
   </tr>
   <tr>
     <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/add%20post.png" width="220"></td>
