@@ -1,5 +1,5 @@
 
-# Shinyuu - Social Networking App
+# Shinyuu - Social Media App
 
 Shinyuu is a social media app designed to connect users with their closest friends and family members in a private and secure environment.
 This app allows user to post their photos online with their friends.
@@ -14,24 +14,51 @@ This app allows user to post their photos online with their friends.
 
 ## Demo
 
+Some screenshots of the Application: 
+<p align="center" float="left">
+<table>
+  <tr>
+    <td>Splash Screen</td>
+    <td>Register Screen</td>
+    <td>Login Screen</td>
+    <td>Edit Profile</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/splash%20screen.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/register%20page.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/login%20page.png" width="220"></td>
+      <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/edit%20profile.png" width="220"></td>
+  </tr>
+</table>
 
-<p align="center">
-    <img src="https://github.com/ashwanisanuraj/Images/blob/main/feed%20page.png" width="400" alt="Image 1">
-    <img src="https://github.com/ashwanisanuraj/Images/blob/main/Connect%20list.png" width="400" alt="Image 2">
-</p>
+<table>
+  <tr>
+    <td>Feed Page</td>
+    <td>Shinyuu Page (Connect List)</td>
+    <td>After connecting with others</td>
+    <td>Profile Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/feed%20page.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/Connect%20list.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/connect%20list%202.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/user's%20profile.png" width="220"></td>
+  </tr>
+</table>
 
-<p align="center">
-    <img src="https://github.com/ashwanisanuraj/Images/blob/main/connect%20list%202.png" width="400" alt="Image 1">
-    <img src="https://github.com/ashwanisanuraj/Images/blob/main/user's%20profile.png" width="400" alt="Image 2">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashwanisanuraj/Images/blob/main/add%20post.png" width="400" alt="Image 1">
-  <img src="https://github.com/ashwanisanuraj/Images/blob/main/add%20post%202.png" width="400" alt="Image 2">
-</p>
-
-<p align="center">
-  <img src="https://github.com/ashwanisanuraj/Images/blob/main/photo_6075671517745757469_y.jpg" width="400" alt="Image 1">
-  <img src="https://github.com/ashwanisanuraj/Images/blob/main/edit%20profile.png" width="400" alt="Image 2">
-</p>
+<table>
+  <tr>
+    <td>Add post</td>
+    <td>Selected Image and Bio for new post</td>
+    <td>See the uploaded Image and Bio in Feed</td>
+    <td>Profile Page</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/add%20post.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/add%20post%202.png" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/photo_6075671517745757469_y.jpg" width="220"></td>
+    <td><img src="https://github.com/ashwanisanuraj/Images/blob/main/logout.png" width="220"></td>
+  </tr>
+</table>
+ </p>
 
